@@ -1,0 +1,6 @@
+{
+  "banners": [
+    { "id": "1", "image": "https://url-de-tu-imagen.png", "title": "Texto opcional" },
+    { "id": "2", "image": "https://url-de-otra-imagen.png" }
+  ]
+}
