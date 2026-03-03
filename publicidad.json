@@ -3,14 +3,13 @@
     { 
       "id": "1", 
       "image": "https://raw.githubusercontent.com/colombiaiptv903-crypto/CineStreamForTVPublicidad/refs/heads/main/aaaa.png", 
-      "title": "Publicidad colombiaiptv903@gmail.com" 
+      "title": "Puclicidad al correo colombiaiptv903@gmail.com" 
     }
   ],
   "update": {
     "version_code": 2,
     "version_name": "1.1.0",
     "apk_url": "https://github.com/colombiaiptv903-crypto/CineStreamForTVPublicidad/releases/download/v1.1.0/app-release.apk",
-    "changelog": "- Reproductor mejorado\n- Banner publicitario\n- Favoritos con doble clic",
+    "changelog": "- Botones Anterior/Capítulos/Siguiente en series\n- Paginación en películas y series\n- Banner publicitario\n- Corrección de errores en reproductor",
     "force_update": false
-  }
-}
+  
