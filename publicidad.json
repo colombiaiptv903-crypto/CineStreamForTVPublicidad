@@ -10,7 +10,18 @@
     "version_code": 2,
     "version_name": "1.1.1",
     "apk_url": "https://github.com/colombiaiptv903-crypto/CineStreamForTVPublicidad/releases/download/v1.1.1/CineStream.For.TV.v1.1.1.apk",
-    "changelog": "- Botones Anterior/Capítulos/Siguiente en series\n- Paginación en películas y series\n- Banner publicitario\n- Corrección de errores en reproductor",
+    "changelog": "🔧 Compatibilidad mejorada
+Compatible con TCL, Hisense, Sony, ONN y Android TV API 21+
+Corregido error de instalación en TCL (leanback required=false)
+📺 Reproductor
+Fix canales IPTV que no cargaban (sistema de fallback de formatos)
+Fix audio en TCL/Hisense (doble setVolume después de play)
+Timeout mejorado para dispositivos lentos
+Mensajes de error más claros
+🎬 Video de inicio
+Corregido en TCL y dispositivos Android TV genéricos
+🖼 TV en Vivo
+Logos más grandes, más canales visibles por página",
     "force_update": false
   }
 }
