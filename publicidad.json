@@ -3,7 +3,7 @@
     {
       "id": "1",
       "image": "https://raw.githubusercontent.com/colombiaiptv903-crypto/CineStreamForTVPublicidad/refs/heads/main/aaaa.png",
-      "title": "Publicidad al correo colombiaiptv903@gmail.com"
+      "title": "Publicidad al colombiaiptv903@gmail.com"
     }
   ],
   "update": {
@@ -13,11 +13,6 @@
     "changelog": "🔧 Compatibilidad mejorada
 Compatible con TCL, Hisense, Sony, ONN y Android TV API 21+
 Corregido error de instalación en TCL (leanback required=false)
-📺 Reproductor
-Fix canales IPTV que no cargaban (sistema de fallback de formatos)
-Fix audio en TCL/Hisense (doble setVolume después de play)
-Timeout mejorado para dispositivos lentos
-Mensajes de error más claros
 🎬 Video de inicio
 Corregido en TCL y dispositivos Android TV genéricos
 🖼 TV en Vivo
