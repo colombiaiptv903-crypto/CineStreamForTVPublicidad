@@ -1,12 +1,21 @@
 {
+  "rotation_seconds": 6,
   "banners": [
     {
       "id": "1",
-      "image": "https://raw.githubusercontent.com/colombiaiptv903-crypto/CineStreamForTVPublicidad/refs/heads/main/aaaa.png",
-      "title": "Publicidad colombiaiptv903@gmail.com"
-	  "active": true
+      "image_url": "https://raw.githubusercontent.com/colombiaiptv903-crypto/CineStreamForTVPublicidad/refs/heads/main/aaaa.png",
+      "link": "Publicidad al colombiaiptv903@gmail.com",
+      "title": "Publicidad al colombiaiptv903@gmail.com",
+      "active": true
+    },
+    {
+      "id": "2",
+      "image_url": "https://raw.githubusercontent.com/colombiaiptv903-crypto/CineStreamForTVPublicidad/refs/heads/main/aaaa.png",
+      "link": "https://wa.me/573001234567",
+      "title": "Anunciante 2",
+      "active": true
     }
-  ],
+    ],
   "update": {
     "version_code": 2,
     "version_name": "1.1.2",
