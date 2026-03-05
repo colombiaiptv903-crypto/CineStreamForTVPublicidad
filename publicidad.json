@@ -8,8 +8,8 @@
   ],
   "update": {
     "version_code": 2,
-    "version_name": "1.1.2",
-    "apk_url": "https://github.com/colombiaiptv903-crypto/CineStreamForTVPublicidad/releases/download/v1.1.0/app-release.apk",
+    "version_name": "1.1.1",
+    "apk_url": "https://github.com/colombiaiptv903-crypto/CineStreamForTVPublicidad/releases/download/v1.1.1/CineStream.For.TV.v1.1.1.apk",
     "changelog": "- Botones Anterior/Capítulos/Siguiente en series\n- Paginación en películas y series\n- Banner publicitario\n- Corrección de errores en reproductor",
     "force_update": false
   }
