@@ -3,26 +3,24 @@
   "banners": [
     {
       "id": "1",
-      "image_url": "https://github.com/colombiaiptv903-crypto/CineStreamForTVPublicidad/blob/main/aaaa.png",
+      "image_url": "https://raw.githubusercontent.com/colombiaiptv903-crypto/CineStreamForTVPublicidad/refs/heads/main/aaaa.png",
       "link": "Publicidad al colombiaiptv903@gmail.com",
       "title": "Publicidad al colombiaiptv903@gmail.com",
       "active": true
     },
     {
       "id": "2",
-      "image_url": "https://github.com/colombiaiptv903-crypto/CineStreamForTVPublicidad/blob/main/aaaa.png",
+      "image_url": "https://raw.githubusercontent.com/colombiaiptv903-crypto/CineStreamForTVPublicidad/refs/heads/main/aaaa.png",
       "link": "https://wa.me/573001234567",
       "title": "Anunciante 2",
       "active": true
     }
-    ],
+  ],
   "update": {
     "version_code": 2,
     "version_name": "1.1.3",
     "apk_url": "https://github.com/colombiaiptv903-crypto/CineStreamForTVPublicidad/releases/download/v1.1.3/CineStream.For.TV.v1.1.3.apk",
     "changelog": "✨ Collage animado en banner de Películas y Series\n▶ Continuar viendo series desde el capítulo exacto\n📺 Logos de canales redimensionados\n📄 Paginación en Películas y Series\n🔧 Correcciones de reproductor y fondos de tarjetas",
-
     "force_update": false
   }
 }
-
