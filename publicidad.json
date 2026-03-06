@@ -22,6 +22,6 @@
     "apk_url": "https://github.com/colombiaiptv903-crypto/CineStreamForTVPublicidad/releases/download/v1.1.3/CineStream.For.TV.v1.1.3.apk",
     "changelog": "✨ Collage animado en banner de Películas y Series\n▶ Continuar viendo series desde el capítulo exacto\n📺 Logos de canales redimensionados\n📄 Paginación en Películas y Series\n🔧 Correcciones de reproductor y fondos de tarjetas",
 
-    "force_update": true
+    "force_update": false
   }
 }
