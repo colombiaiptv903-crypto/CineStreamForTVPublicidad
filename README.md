@@ -1,6 +1,6 @@
 {
   "rotation_seconds": 6,
-  "banners": [
+  "banners":
     {
       "id": "1",
       "image_url": "https://raw.githubusercontent.com/colombiaiptv903-crypto/CineStreamForTVPublicidad/refs/heads/main/aaaa.png",
